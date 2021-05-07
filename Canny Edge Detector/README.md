@@ -1,4 +1,4 @@
-Canny Edge Detector application example using threshold 70,100 as min / max values.
+Canny Edge Detector application example using threshold 70,100 as min/max values.
 
 To run this example, you can use :
 
