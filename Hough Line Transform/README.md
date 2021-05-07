@@ -7,6 +7,6 @@ To run this example, you can use :
 
 `/hough_line images/sudoku.png 10 100 125 150`
 
-| Before Hough Circle |  After Hough Circle |
+| Before Hough Line |  After Hough Line |
 :---------:|:-----:|
 ![](https://github.com/Dantekk/Image-Processing-algorithms-with-OpenCV/blob/main/Hough%20Line%20Transform/images/sudoku.png) | ![](https://github.com/Dantekk/Image-Processing-algorithms-with-OpenCV/blob/main/Hough%20Line%20Transform/images/sudoku_out.png)
