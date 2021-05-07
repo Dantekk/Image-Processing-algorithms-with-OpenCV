@@ -2,7 +2,7 @@ K-means application example using 8 clusters.
 
 To run this example, you can use :
 
-`../kmeans images/balls.jpg 8`
+`./kmeans images/balls.jpg 8`
 
 | Before K-means |  After K-means |
 :---------:|:-----:|
